@@ -1,4 +1,4 @@
-# GNN Dataset Generation for Mesh Wear Prediction
+# GNN Dataset Generation for Material Wear Prediction
 
 ## Overview
 
